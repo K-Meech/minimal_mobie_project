@@ -1,0 +1,20 @@
+{
+	"3d-image" : {
+	"color":"white",
+	"storage": {
+		"local": "local/3d-image.xml"
+	},
+	"type":"image"
+	},
+	
+	"3d-image-lbl" : {
+	"color" : "glasbey",
+	"storage": {
+		"local": "local/3d-image-lbl.xml"
+	},
+	"tableFolder":"tables/3d-image-lbl",
+	"type":"segmentation"
+	}
+}
+	
+	
